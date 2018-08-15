@@ -26,6 +26,7 @@ This is the list of sites that i like to visit a lot.
 - [Google Arts and Culture](artsandculture.google.com)
 - [Mind Your Decisions](mindyourdecisions.com/)
 - List of Google Products [List](https://en.wikipedia.org/wiki/List_of_Google_products)
+- [Pratical Typography](https://practicaltypography.com/)
 
 ## Contribution
 Contributions are always welcome! 
