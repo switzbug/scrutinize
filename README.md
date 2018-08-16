@@ -13,7 +13,7 @@ This is the list of sites that i like to visit a lot.
 - [The Wall Street Journal](www.wsj.com)
 - [Brain Pickings](www.brainpickings.org)
 - [Farnam Street](fs.blog)
-- [Nautilus](nautil.us)
+- [Nautilus](http://nautil.us/)
 - [Qaurtz](qz.com)
 - [The New Yorker](www.newyorker.com)
 - [The New Yorker Magazine](www.newyorker.com/magazine)
