@@ -27,6 +27,7 @@ This is the list of sites that i like to visit a lot.
 - [Mind Your Decisions](mindyourdecisions.com/)
 - List of Google Products [List](https://en.wikipedia.org/wiki/List_of_Google_products)
 - [Pratical Typography](https://practicaltypography.com/)
+- [Harvard Health Publishing](https://www.health.harvard.edu/)
 
 ## Contribution
 Contributions are always welcome! 
